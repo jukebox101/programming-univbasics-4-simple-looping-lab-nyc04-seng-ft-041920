@@ -17,5 +17,5 @@ end
 
 def return_string_array(array)
 new_arr = []
-arr.each {|a| new_arr.pop(a)}
+arr.each {|a| new_arr.push(a)}
 end
