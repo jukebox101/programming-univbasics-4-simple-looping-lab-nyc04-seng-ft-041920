@@ -4,14 +4,14 @@ def loop_message_five_times(string)
   
 end
 
-def loop_message_n_times
+def loop_message_n_times(string, integer)
 
 end
 
-def output_array
+def output_array(array)
 
 end
 
-def return_string_array
+def return_string_array(array)
 
 end
