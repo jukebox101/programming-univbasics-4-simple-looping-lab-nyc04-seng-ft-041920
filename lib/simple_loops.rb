@@ -17,5 +17,7 @@ end
 
 def return_string_array(array)
 new_arr = []
-array.each {|a| new_arr.push(a)}
+for array.length do
+  
+end
 end
