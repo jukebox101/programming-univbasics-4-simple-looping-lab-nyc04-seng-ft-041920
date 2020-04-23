@@ -18,8 +18,8 @@ end
 def return_string_array(array)
   new_arr = []
   count = 0
-  while count < array.length do
+  for array.length do
     new_arr[count] = array[count].to_s
-    count++
+    count+=1
   end
 end
