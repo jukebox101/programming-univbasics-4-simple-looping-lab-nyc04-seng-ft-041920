@@ -21,6 +21,5 @@ def return_string_array(array)
   for array.length do
     new_arr[count] = array[count].to_s
     count++
-  end
   new_arr
 end
