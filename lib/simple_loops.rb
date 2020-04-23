@@ -16,5 +16,6 @@ def output_array(array)
 end
 
 def return_string_array(array)
-
+new_arr = []
+arr.each {|a| new_arr.pop(a)}
 end
